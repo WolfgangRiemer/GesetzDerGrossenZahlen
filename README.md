@@ -1,1 +1,1 @@
-erszer versuch
+erster versuch

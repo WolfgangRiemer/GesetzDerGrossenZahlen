@@ -1,1 +1,2 @@
-erster versuch
+Dateien von Reimund
+Erster versuch mit GIT
